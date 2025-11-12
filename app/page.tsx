@@ -93,7 +93,7 @@ export default function Home() {
               specializing in penetration testing and bug bounty hunting.
             </p>
             <p className="text-terminal-green/80 mb-4">
-              Currently working as an <span className="text-terminal-cyan">IT Support Engineer</span> at Fidelis Finance,
+              Currently working as a <span className="text-terminal-cyan">Bug Bounty Hunter</span>,
               I continuously sharpen my offensive security skills through hands-on practice, certifications, and real-world
               vulnerability research.
             </p>
